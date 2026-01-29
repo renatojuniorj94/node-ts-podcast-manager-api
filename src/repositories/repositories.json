@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "curso-em-video",
+        "episode": "AOS 84 ANOS LECIONANDO PARA 9 TURMAS PRESENCIAIS - Experience Podcast #08 - Mario Monteiro",
+        "videoId": "hCZ7y2sjc94&",
+        "category": ["saúde", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "TECNOLOGIA E IA [+ FABIO AKITA]",
+        "videoId": "--slRywdonM",
+        "category": ["tecnologia", "ia"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Papo com Renato",
+        "videoId": "--slRcoidnm98M",
+        "category": ["tecnologia", "ia"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Papo com zico",
+        "videoId": "--slRcoidnm98M",
+        "category": ["esporte"]
+    }
+]
